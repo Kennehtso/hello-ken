@@ -1,2 +1,3 @@
 # hello-ken
-first gihub porject
+First GitHub Project
+Co-op a Project call "Petalk"
